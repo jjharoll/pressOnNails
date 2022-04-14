@@ -1,8 +1,8 @@
 <?php
 $host = "localhost";
-$dbname = "id18736058_admiria";
-$username = "id18736058_root";
-$password = "{Y2RDGv/d-ET+PxT";
+$dbname = "localhost";
+$username = "root";
+$password = "root";
 
 
 
